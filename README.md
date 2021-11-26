@@ -1,5 +1,7 @@
 **CVEID**: pending
 
+**Bluestacks Advisory ID**: BS-2021-002
+
 **Name of the affected product(s) and version(s)**: BlueStacks for Windows (all versions prior to 5.1.100.1020)
 
 **Vulnerability type**:  CWE-552: Files or Directories Accessible to External Parties
